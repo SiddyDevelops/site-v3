@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://siddydevelops.github.io/sitemap.xml
+Host: https://siddydevelops.github.io
