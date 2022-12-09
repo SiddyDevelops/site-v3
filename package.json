@@ -5,7 +5,7 @@
   "author": "Siddharth Singh <siddhartsingh2002@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://siddydevelops.github.io/"
+    "url": "https://siddydevelops.netlify.app/"
   },
   "keywords": [
     "gatsby"
