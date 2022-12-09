@@ -171,7 +171,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="https://raw.githubusercontent.com/SiddyDevelops/Portfolio/main/images/mePhoto.jpg"
+              src="../../images/me.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
