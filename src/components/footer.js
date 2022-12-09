@@ -68,7 +68,12 @@ const StyledCredit = styled.div`
 `;
 
 const Footer = () => {
-  const [githubInfo, setGitHubInfo] = useState({
+  // const [githubInfo, setGitHubInfo] = useState({
+  //   stars: 100,
+  //   forks: 5,
+  // });
+
+  const [setGitHubInfo] = useState({
     stars: 100,
     forks: 5,
   });
@@ -107,7 +112,7 @@ const Footer = () => {
       <StyledCredit tabindex="-1">
         <a href="https://siddydevelops.github.io/">
           <div>Designed &amp; Built by Siddharth Singh</div>
-          {githubInfo.stars && githubInfo.forks && (
+          {/* {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
               <span>
                 <Icon name="Star" />
@@ -118,7 +123,7 @@ const Footer = () => {
                 <span>{githubInfo.forks.toLocaleString()}</span>
               </span>
             </div>
-          )}
+          )} */}
         </a>
       </StyledCredit>
     </StyledFooter>
