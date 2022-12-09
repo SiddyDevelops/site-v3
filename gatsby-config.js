@@ -1,6 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/SiddyDevelops.github.io',
   siteMetadata: {
     title: 'SiddyDevelops',
     description:
