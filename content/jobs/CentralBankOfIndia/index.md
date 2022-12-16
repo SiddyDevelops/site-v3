@@ -1,7 +1,7 @@
 ---
 date: '2022-05-15'
 title: 'Android Application Freelancer'
-company: 'Central Bank of India'
+company: 'CBOI - Bank'
 location: 'Bhoapl, India'
 range: 'May - June 2022'
 url: 'https://siddydevelops.github.io/Cent-DPR/'
